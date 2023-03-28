@@ -1,3 +1,4 @@
+package url.nome2.estruturascondicionais.ifelse;
 public class atvNatacao {
     public static void main(String[] args){
         String nome = "Pedro";

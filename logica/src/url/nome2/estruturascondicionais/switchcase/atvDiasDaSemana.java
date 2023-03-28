@@ -1,3 +1,5 @@
+package url.nome2.estruturascondicionais.switchcase;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class atvDiasDaSemana {
@@ -29,7 +31,7 @@ public class atvDiasDaSemana {
                     diaDaSemana = "Domingo";
                     break;
                 default:
-                throw new Error("Dia não encontrado!");
+                throw new InputMismatchException("Dia não encontrado!");
             }
             System.out.println("Dia Correspondente: " + diaDaSemana);
         }catch(Exception erro){

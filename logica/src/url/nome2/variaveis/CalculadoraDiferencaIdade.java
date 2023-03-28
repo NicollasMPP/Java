@@ -1,3 +1,4 @@
+package url.nome2.variaveis;
 public class CalculadoraDiferencaIdade {
     public static void main(String[] param){
         int idade1 = 50;

@@ -1,3 +1,4 @@
+package url.nome2.variaveis;
 import java.util.Scanner;
 
 public class recebendoDadosDoTeclado {

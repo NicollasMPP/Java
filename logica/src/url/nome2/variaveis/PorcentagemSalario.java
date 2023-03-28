@@ -1,3 +1,4 @@
+package url.nome2.variaveis;
 public class PorcentagemSalario {
     public static void main(String[] args){
         float salario = 1000.10F; // o F indica que é float
